@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/VSProjects/Claz/bin/Debug/net7.0/Claz
+/home/gabriel/Desktop/VSProjects/Claz/bin/Debug/net7.0/Claz.deps.json
+/home/gabriel/Desktop/VSProjects/Claz/bin/Debug/net7.0/Claz.runtimeconfig.json
+/home/gabriel/Desktop/VSProjects/Claz/bin/Debug/net7.0/Claz.dll
+/home/gabriel/Desktop/VSProjects/Claz/bin/Debug/net7.0/Claz.pdb
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/Claz.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/Claz.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/Claz.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/Claz.AssemblyInfo.cs
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/Claz.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/Claz.dll
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/refint/Claz.dll
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/Claz.pdb
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/Claz.genruntimeconfig.cache
+/home/gabriel/Desktop/VSProjects/Claz/obj/Debug/net7.0/ref/Claz.dll
