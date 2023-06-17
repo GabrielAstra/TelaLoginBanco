@@ -4,7 +4,7 @@
 
 Console.WriteLine("Digite sua senha:");
 int senha = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("DIgite seu login:");
+Console.WriteLine("Digite seu login:");
 string login = Console.ReadLine();
 
 if (senha == 123 && login == "NomeExemplo")
